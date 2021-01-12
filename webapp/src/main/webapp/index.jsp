@@ -2,3 +2,4 @@
 <h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
 <h2> Glad to see you here </h2>
 <h2> Adaugat de mine; il punem pe un VM </h2>
+<h2> CEVA NOU 2 </h2>
